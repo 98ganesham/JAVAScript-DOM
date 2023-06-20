@@ -5,13 +5,17 @@ body {
 
 }
 
+
+
 #open-btn {
     position: absolute;
+    text-align: center;
     top: 70%;
     left: 10%;
     width: 350px;
     height: 80px;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    font-weight: lightbold;
     background: transparent;
     color: #fff;
     border: solid 2px #fff;

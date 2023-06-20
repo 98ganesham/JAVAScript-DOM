@@ -1,6 +1,7 @@
 body {
     height: 100vh;
-    background: url(image/swimmingpool.jpg) no-repeat center center/ cover;
+    text-align: center;
+    background: url(image/HD-wallpaper-swimming-amazing-man-water-pool.jpg) no-repeat center center/ cover;
     display: flex;
     justify-content: center;
     align-items: center;
